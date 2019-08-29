@@ -1,6 +1,6 @@
-# Pubnug Mysql UDF
+# Pubnub.com Mysql UDF
 
-We are not using this plugin any more.
+We are not using this plugin any more. The plugin is good/working state. 
 
 1. edit udf_pubnub.go and setup corret publish(pubKey), subscribe(subKey), security(secKey).
 ```
